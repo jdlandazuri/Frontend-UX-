@@ -19,7 +19,8 @@ body
 
 #img1
 {
-    float: left;   
+    float: left;
+    float: right;   
 }
 #img2
 {
